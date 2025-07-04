@@ -13,6 +13,6 @@
 
 此外，优化用户体验不可忽视，确保网站加载速度快、设计简洁、移动端适配良好。通过这些综合优化，你的网站能够在竞争中获得更好的排名。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/vv20250704/vv04 ）</span>
 
 
